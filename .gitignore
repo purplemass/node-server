@@ -1,0 +1,7 @@
+.git.nosync/
+node_modules/
+node_modules.nosync/
+
+*.swp
+node_modules
+server.log
